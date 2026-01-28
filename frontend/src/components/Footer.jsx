@@ -6,7 +6,7 @@ function Footer() {
     <footer 
       className="text-light py-4" 
       style={{ 
-        backgroundColor: '#171a33', // 신뢰감을 주는 다크 네이비 색상
+        backgroundColor: '#171a33', // 신뢰감을 주는 다크 네이비 색상ㅇ
         width: '100%', 
         marginTop: 'auto' 
       }}
